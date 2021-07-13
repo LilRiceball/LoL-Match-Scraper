@@ -15,8 +15,9 @@ Now all you have to do is create a file named urls.txt and place your match link
 1. Head over to https://developer.riotgames.com/ to get your key, you'll find it on a page that looks like this:
 ![image](https://user-images.githubusercontent.com/46391291/125374677-7e8fa300-e355-11eb-9c4f-fe753f5e73c3.png)
 
-2. Create a folder and download main.py and place it inside, you can also create your RIOT_API_KEY.txt and urls.txt in this same folder:
-3. Find the match(es) that you want to grab data for and place them inside urls.txt, one url per line:
+2. Create a folder and download main.py and place it inside.
+3. Create your RIOT_API_KEY.txt and urls.txt in this same folder, place your API key inside RIOT_API_KEY.txt.
+4. Find the match(es) that you want to grab data for and place them inside urls.txt, one url per line:
 ![image](https://user-images.githubusercontent.com/46391291/125381059-41c9a900-e361-11eb-97b4-c9b359305fe6.png)
 ![image](https://user-images.githubusercontent.com/46391291/125381133-5f970e00-e361-11eb-80f9-71ef307bd89f.png)
 ![image](https://user-images.githubusercontent.com/46391291/125381054-3d04f500-e361-11eb-8ebd-78a5c90e2915.png)
