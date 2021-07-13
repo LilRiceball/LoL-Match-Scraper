@@ -24,5 +24,8 @@ Now all you have to do is create a file named urls.txt and place your match link
 
 4. Now, just run main.py and output.csv will be created with the requested information. This can be opened with your preferred program such as Excel or Google Sheets:
 ![image](https://user-images.githubusercontent.com/46391291/125381523-0ed3e500-e362-11eb-9362-bce6b9cda773.png)
+# Uses For This Program
+This allows you to gather interesting information for competitions, such as PSU LCS, and display the data in a fun way for players to see:
+![image](https://user-images.githubusercontent.com/46391291/125382327-7dfe0900-e363-11eb-8bdb-2d18a3e3703e.png)
 # Future Updates
 This can be further updated by including other data such as objective damage, turret damage, dragon and baron kill counts, and game time just to name a few.
