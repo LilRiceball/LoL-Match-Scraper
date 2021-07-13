@@ -17,4 +17,11 @@ Now all you have to do is create a file named urls.txt and place your match link
 
 2. Create a folder and download main.py and place it inside, you can also create your RIOT_API_KEY.txt and urls.txt in this same folder:
 3. Find the match(es) that you want to grab data for and place them inside urls.txt, one url per line:
+![image](https://user-images.githubusercontent.com/46391291/125381059-41c9a900-e361-11eb-97b4-c9b359305fe6.png)
+![image](https://user-images.githubusercontent.com/46391291/125381133-5f970e00-e361-11eb-80f9-71ef307bd89f.png)
+![image](https://user-images.githubusercontent.com/46391291/125381054-3d04f500-e361-11eb-8ebd-78a5c90e2915.png)
 
+4. Now, just run main.py and output.csv will be created with the requested information. This can be opened with your preferred program such as Excel or Google Sheets:
+![image](https://user-images.githubusercontent.com/46391291/125381523-0ed3e500-e362-11eb-9362-bce6b9cda773.png)
+# Future Updates
+This can be further updated by including other data such as objective damage, turret damage, dragon and baron kill counts, and game time just to name a few.
